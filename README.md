@@ -12,7 +12,7 @@ To get started with these notebooks, follow these steps:
 5.  Run the notebook cells sequentially to understand and experiment with the concepts presented.
 
 ---
-Notebook List:
+#### **Notebook List**
 
 2D_SPH_for_QuasiIncompressibleNS.ipynb
 > This notebook contains a time-adaptive Smoothed Particle Hydrodynamics (SPH) solver for simulating Quasi-Incompressible Navier-Stokes equations with mirroring boundary conditions. An example of a water column released in a closed box is presented.  
