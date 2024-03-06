@@ -1,5 +1,6 @@
 
-![DALL·E 2024-03-06 19 44 36 (2)](https://github.com/GirolamoOddo/AppliedMath_Notebooks/assets/101062431/28ba460c-ee84-485c-937c-24a048932139)
+![APPLIED_MATH_COVER](https://github.com/GirolamoOddo/AppliedMath_Notebooks/assets/101062431/56bb0fed-2968-4466-b222-69c7d77c9022)
+
 
 ## **Applied Mathematics Notebooks**
 _Welcome to the Applied Mathematics Notebooks repository!  
