@@ -1,5 +1,6 @@
 
-![APPLIED_MATH_COVER](https://github.com/GirolamoOddo/AppliedMath_Notebooks/assets/101062431/56bb0fed-2968-4466-b222-69c7d77c9022)
+![photo1709798867](https://github.com/GirolamoOddo/AppliedMath_Notebooks/assets/101062431/395d8eeb-85fa-473c-95c9-6c9db31c6d64)
+
 
 
 ## **Applied Mathematics Notebooks**
