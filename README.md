@@ -6,7 +6,7 @@
 ## **Applied Mathematics Notebooks**
 _Welcome to the Applied Mathematics Notebooks repository!  
 This collection of Google Colab notebooks covers a range of topics in applied mathematics, showcasing practical applications and implementations.     
-The notebooks offer insights into applied math concepts and techniques, with a focus on fluid-dynamics/thermal/structural simulation, machine learning, dynamical systems identification, optimization and control._
+The notebooks offer insights into applied math concepts and techniques on numerical simulation, machine learning, dynamical systems identification, optimization and control._
 
 #### **Getting Started**
 To get started with these notebooks, follow these steps:    
