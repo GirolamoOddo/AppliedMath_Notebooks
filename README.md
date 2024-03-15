@@ -6,7 +6,7 @@
 ## **Applied Mathematics Notebooks**
 _Welcome to the Applied Mathematics Notebooks repository!  
 This collection of Google Colab notebooks covers a range of topics in applied mathematics, showcasing practical applications and implementations.     
-The notebooks offer insights into applied math concepts and techniques, with a focus on fluid-dynamics/thermal simulation, machine learning, dynamical systems identification and control._
+The notebooks offer insights into applied math concepts and techniques, with a focus on fluid-dynamics/thermal simulation, machine learning, dynamical systems identification, optimization and control._
 
 #### **Getting Started**
 To get started with these notebooks, follow these steps:    
@@ -23,7 +23,10 @@ To get started with these notebooks, follow these steps:
 > This notebook contains a time-adaptive Smoothed Particle Hydrodynamics (SPH) solver for simulating Quasi-Incompressible Navier-Stokes equations with mirroring boundary conditions. An example of a water column released in a closed box is presented.  
 
 2D_Solvers_for_HeatEquation.ipynb
-> This notebook contains a set of numerical methods, specifically: Finite Differences, Finite Volumes and Physics Informed Covolutional NN to approach the solution of the heat equation in a 2D domain. The results are then compared using interactive 3D Plotly graphs. 
+> This notebook contains a set of numerical methods, specifically: Finite Differences, Finite Volumes and Physics Informed Covolutional NN to approach the solution of the heat equation in a 2D domain. The results are then compared using interactive 3D Plotly graphs.
+
+AoAOptimization_for_GroundEffectAirfoil.ipynb
+> In this notebook, it will be presented, through a practical example, how to proceed with the optimization of a convex problem using SciPy. Specifically, the application to the case of a symmetric airfoil profile, NACA 0012, under ground effect conditions will be demonstrated. The aim is to find, at different heights from the ground, the angle of attack that maximizes the efficiency of the profile.
 
 DeepRL_for_CruiseControl.ipynb  
 > In this notebook, the application of the DDPG paradigm for continuous control with expert-learning application is presented. The proposed application is cruise control, where the agent, starting from a standstill, must reach the target speed and maintain it by acting on the throttle and brake.  
