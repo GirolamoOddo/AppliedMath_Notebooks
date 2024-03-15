@@ -43,3 +43,16 @@ RNN_for_Sequence2SequenceForecasting.ipynb
 ResNet18_for_BinaryClassification.ipynb
 > This notebook applies the ResNet network architecture to perform binary classification of images. It demonstrates how to perform preprocessing, fine-tuning, and post-processing to accomplish these tasks.  
 
+---
+#### **Citation Format**
+
+To cite this work, please use the following BibTeX entry:  
+
+>@misc{GirolamoOddo.2024,  
+  author = {Girolamo Oddo},  
+  title = {AppliedMath_Notebooks: Notebook Title},  
+  year = {2024},  
+  publisher = {GitHub},  
+  journal = {GitHub repository},  
+  howpublished = {\url{https://github.com/GirolamoOddo/AppliedMath_Notebooks.git}},  
+}
