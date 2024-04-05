@@ -43,6 +43,8 @@ RNN_for_Sequence2SequenceForecasting.ipynb
 ResNet18_for_BinaryClassification.ipynb
 > This notebook applies the ResNet network architecture to perform binary classification of images. It demonstrates how to perform preprocessing, fine-tuning, and post-processing to accomplish these tasks.  
 
+SympleticIntegration_for_MassSpringSystem.ipynb
+> This notebook explores symplectic/geometric numerical integration and compares it with its non-symplectic counterpart of the same order. The proposed application case is the analysis of a spring-mass system using the Verlet and Runge-Kutta 2 methods.
 ---
 #### **Citation Format**
 
