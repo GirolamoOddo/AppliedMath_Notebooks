@@ -33,6 +33,9 @@ DeepRL_for_CruiseControl.ipynb
    
 FNN_for_InverseStructuralProblem.ipynb
 > This notebook implements a Finite Element Method (FEM) solver for solving a 2D beam problem fixed at one end and loaded at the opposite end. From this, data are extracted to solve the inverse problem using a Feedforward Neural Network (FNN), where given the maximum deformation, its position, and material properties as input, the goal is to infer the applied load.
+
+MultiLevelMonteCarlo_for_ParameterEstimation.ipynb
+> This notebook aims to estimate the damping coefficient of a mass-spring-damper system using Monte Carlo and Multi-Level Monte Carlo methods. From these, considerations will also be drawn regarding the efficiency of the method by comparing the obtained results.
   
 PySINDy_for_ControlledSystemIdentification.ipynb
 > This notebook applies the Sparse Identification of Nonlinear Dynamics (SINDY) framework to model dynamic systems with and without external control actions.  
