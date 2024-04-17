@@ -48,6 +48,10 @@ ResNet18_for_BinaryClassification.ipynb
 
 SympleticIntegration_for_MassSpringSystem.ipynb
 > This notebook explores symplectic/geometric numerical integration and compares it with its non-symplectic counterpart of the same order. The proposed application case is the analysis of a spring-mass system using the Verlet and Runge-Kutta 2 methods.
+
+SystemIdentification_for_DiscreteMarkovProcesses.ipynb
+>In this notebook, Markov processes are explored and it is shown how it is possible to estimate the transition probability matrix with different estimation techniques, Maximum Likelihood (MLE) and Wavelet Based Maximum Likelihood (WMLE). A Markov Decision Process problem is also presented, focusing on a maintenance management case, identifying the optimal control policy.
+  
 ---
 #### **Citation Format**
 
