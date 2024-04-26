@@ -6,7 +6,7 @@
 ## **Applied Mathematics Notebooks**
 _Welcome to the Applied Mathematics Notebooks repository!  
 This collection of Google Colab notebooks covers a range of topics in applied mathematics, showcasing practical applications and implementations.     
-The notebooks offer insights into applied math concepts and techniques on numerical simulation, machine learning, dynamical systems identification, optimization and control._
+The notebooks offer insights into concepts and techniques on numerical simulation, machine learning, dynamical systems identification, optimization and control._
 
 #### **Getting Started**
 To get started with these notebooks, follow these steps:    
@@ -20,7 +20,7 @@ To get started with these notebooks, follow these steps:
 #### **Notebooks List**
 Numerical Simulation: 🟧, 
 Machine learning / Dynamical systems identification: 🟩, 
-Optimization and Control: 🟦.  
+Optimization / Control: 🟦.  
 
 2D_SPH_for_QuasiIncompressibleNS.ipynb [🟧]  
 > This notebook contains a time-adaptive Smoothed Particle Hydrodynamics (SPH) solver for simulating Quasi-Incompressible Navier-Stokes equations with mirroring boundary conditions. An example of a water column released in a closed box is presented.  
