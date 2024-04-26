@@ -34,7 +34,7 @@ AdversarialSearch_for_ZeroSumScenario.ipynb [🟦]
 AoAOptimization_for_GroundEffectAirfoil.ipynb [🟦]    
 > In this notebook, it will be presented, through a practical example, how to proceed with the optimization of a convex problem using SciPy. Specifically, the application to the case of a symmetric airfoil profile, NACA 0012, under ground effect conditions will be demonstrated. The aim is to find, at different heights from the ground, the angle of attack that maximizes the efficiency of the profile.
 
-DeepRL_for_CruiseControl.ipynb [🟦]      
+DeepRL_for_CruiseControl.ipynb [🟩 🟦]      
 > In this notebook, the application of the DDPG paradigm for continuous control with expert-learning application is presented. The proposed application is cruise control, where the agent, starting from a standstill, must reach the target speed and maintain it by acting on the throttle and brake.  
    
 FNN_for_InverseStructuralProblem.ipynb [🟧 🟩]
