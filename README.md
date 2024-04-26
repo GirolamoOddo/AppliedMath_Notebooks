@@ -25,6 +25,9 @@ To get started with these notebooks, follow these steps:
 2D_Solvers_for_HeatEquation.ipynb
 > This notebook contains a set of numerical methods, specifically: Finite Differences, Finite Volumes and Physics Informed Covolutional NN to approach the solution of the heat equation in a 2D domain. The results are then compared using interactive 3D Plotly graphs.
 
+AdversarialSearch_for_ZeroSumScenario.ipynb
+>This notebook aims to provide a practical insight into adversarial search through the use of the Minimax algorithm applied to a simple two-player game (user vs. algorithm) with complete information and zero-sum property.
+
 AoAOptimization_for_GroundEffectAirfoil.ipynb
 > In this notebook, it will be presented, through a practical example, how to proceed with the optimization of a convex problem using SciPy. Specifically, the application to the case of a symmetric airfoil profile, NACA 0012, under ground effect conditions will be demonstrated. The aim is to find, at different heights from the ground, the angle of attack that maximizes the efficiency of the profile.
 
