@@ -75,5 +75,5 @@ To cite this work, please use the following BibTeX entry:
 ---
 #### **Acknowledgements**
 
-This collection mainly stems from themes and insights provided to me by Dr. Roberto Nuca from the Advanced Algorithm and Numerical Simulation Lab at KAUST, during my time visiting their laboratory.  
+This collection mainly stems from insights for further study provided to me by Dr. Roberto Nuca from the Advanced Algorithm and Numerical Simulation Lab at KAUST, during my time visiting their laboratory.  
 I would therefore like to thank him for the extensive overview he provided me on the world of applied mathematics and numerical simulation.
