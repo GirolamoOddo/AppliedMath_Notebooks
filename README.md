@@ -18,8 +18,8 @@ To get started with these notebooks, follow these steps:
 
 NOTES: All Notebooks works with Python 3.10.12, to downgrade to this version use:  
 ```
-!apt-get install python3.10.12
-!ln -sf /usr/bin/python3.10.12 /usr/bin/python
+!apt-get install python3.10
+!ln -sf /usr/bin/python3.10 /usr/bin/python
 ```
 ---
 #### **Notebooks List**
