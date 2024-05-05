@@ -16,6 +16,11 @@ To get started with these notebooks, follow these steps:
 4.  Choose a notebook to explore.  
 5.  Run the notebook cells sequentially to understand and experiment with the concepts presented.
 
+NOTES: All Notebooks works with Python 3.10.12, to downgrade to this version use:  
+```
+!apt-get install python3.10.12
+!ln -sf /usr/bin/python3.10.12 /usr/bin/python
+```
 ---
 #### **Notebooks List**
 Numerical Simulation: 🟧, 
