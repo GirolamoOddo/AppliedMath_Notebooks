@@ -20,7 +20,9 @@ NOTES: All Notebooks works with Python 3.10.12, to downgrade to this version use
 ```
 !apt-get install python3.10
 !ln -sf /usr/bin/python3.10 /usr/bin/python
-```
+```  
+check COLAB_VERSION file for further information on Colab Notebook version.  
+  
 ---
 #### **Notebooks List**
 Numerical Simulation: 🟧, 
