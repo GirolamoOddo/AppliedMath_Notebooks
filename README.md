@@ -30,6 +30,9 @@ Optimization / Control: 🟦.
 2D_Solvers_for_HeatEquation.ipynb [🟧]  
 > This notebook contains a set of numerical methods, specifically: Finite Differences, Finite Volumes and Physics Informed Covolutional NN to approach the solution of the heat equation in a 2D domain. The results are then compared using interactive 3D Plotly graphs.
 
+3D_LBM_for_FluidDynamicsSimualtion.ipynb [🟧]   
+>This notebook contains an introduction to the Lattice Boltzmann Method applied to CFD, covering 2D schemes (D2Q5, D2Q9) and 3D schemes (D3Q15, D3Q27), allowing for the simulation of flows in a channel with user-defined cubic obstacles. Additionally, for completeness, a version using PETSc4py is provided for the D2Q9 and D3Q27 schemes.  
+
 AdversarialSearch_for_ZeroSumScenario.ipynb [🟦]    
 >This notebook aims to provide a practical insight into adversarial search through the use of the Minimax algorithm applied to a simple two-player game (user vs. algorithm) with complete information and zero-sum property.
 
