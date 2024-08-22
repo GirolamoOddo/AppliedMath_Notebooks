@@ -82,7 +82,7 @@ To cite this work, please use the following BibTeX entry:
 
 ---
 #### **Disclaimer**  
-Disclaimer: All the codes provided in this repository are the result of my personal study. They have not been peer-reviewed and may therefore contain errors or inaccuracies. They should be considered as a starting point for further exploration.  
+All the codes provided in this repository are the result of my personal study. They have not been peer-reviewed and may therefore contain errors or inaccuracies. They should be considered as a starting point for further exploration.  
 
 ---
 #### **Acknowledgements**
