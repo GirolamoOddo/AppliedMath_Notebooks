@@ -60,9 +60,6 @@ RNN_for_Sequence2SequenceForecasting.ipynb [🟩]
 ResNet18_for_BinaryClassification.ipynb [🟩]  
 > This notebook applies the ResNet network architecture to perform binary classification of images. It demonstrates how to perform preprocessing, fine-tuning, and post-processing to accomplish these tasks.  
 
-SBPFiniteDifferences_for_CoupledWaveHeatEquation.ipynb [🟧 🟩]  
-> This notebook explores the Summation by Parts framework for the Finite Difference method and compares it with the classical counterpart of the method. It is applied to the 1D wave and heat equations. Finally, an application is proposed where, given the laws to be coupled and a large amount of data to define the respective coupling law without having it explicitly, a neural network is employed to determine the coupling law and is integrated into the simulation.  
-
 SympleticIntegration_for_MassSpringSystem.ipynb [🟧]  
 > This notebook explores symplectic/geometric numerical integration and compares it with its non-symplectic counterpart of the same order. The proposed application case is the analysis of a spring-mass system using the Verlet and Runge-Kutta 2 methods.
 
