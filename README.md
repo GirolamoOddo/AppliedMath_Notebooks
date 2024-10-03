@@ -88,6 +88,6 @@ All the codes provided in this repository are the result of my personal study. T
 #### **Acknowledgements**
 
 This collection mainly stems from insights for further study provided to me by Prof. Matteo Parsani and Dr. Roberto Nuca from the Advanced Algorithm and Numerical Simulation Lab at KAUST, during my time visiting their laboratory.  
-I would therefore like to thank they for the extensive overview he provided me on the world of applied mathematics and numerical simulation.
+I would therefore like to thank they for the extensive overview provided me on the world of applied mathematics and numerical simulation.
 
 
